@@ -23,6 +23,10 @@ Estou cursando o Técnico de Desenvolvimento de Sistemas no SENAI, onde tenho ap
 - **Sistemas Operacionais**
 - **Levantamento de Requisitos**
 - **Arquiteturas de Redes com IoT**
+- **Linguagem de Marcação**
+- **Projetos de Software**
+- **Programação Back-End**
+- **Banco de Dados**
   
 ## 🎯 Expectativas para o Futuro
 
